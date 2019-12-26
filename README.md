@@ -8,7 +8,7 @@
  制作期間：2日  
  Github:https://github.com/fan-tech/Fan-s-Janken-Game  
  実際に遊べます→https://fans-jankengame.netlify.com/  
-**2.　数字合わせゲーム**  　
+**2.　数字合わせゲーム**  
 　0から製作しました。
   HTML CSS JavaScriptを使って作ったゲームです。  
   もしかしたら、不具合もあるかもしれませんが「がんばったんだな～」って思ってくれると嬉しいです。  
