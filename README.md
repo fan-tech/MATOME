@@ -24,5 +24,5 @@ BLOG:https://fanfanfan.hatenadiary.com/
 **- 簡単な自己紹介**   
 プログラミングはじめたての人です。  
 勉強しているものは、HTML　CSS　JavaScriptです。  
-最近、Pythonにも興味がありますー。
+最近、Pythonにも興味がありますー。  
 よろしくおねがいします～！
