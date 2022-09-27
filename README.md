@@ -30,7 +30,7 @@ Github:[https://github.com/fan-tech/Fan-s-SinkeiSuijaku](https://github.com/fan-
 
 実際に遊べます→https://fan-s-sinkeisuijaku.netlify.com/
 
-**2.　じゃんけんゲームNEO**
+**3.　じゃんけんゲームNEO**
 
 産まれて初めて作ったゲームをDjango使ってアップデートしたもの。
 
